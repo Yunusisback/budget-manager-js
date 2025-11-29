@@ -1,17 +1,28 @@
-Project Name: expense-calculator
+# Vanilla JS Expense Tracker 💸
 
+A functional expense tracking application built entirely with **Vanilla JavaScript (ES6+)**. This project demonstrates core frontend skills including **DOM manipulation**, **event handling**, and **dynamic filtering** logic without relying on any frameworks.
 
-Features ✨
+![expensecalculator](https://github.com/user-attachments/assets/611ca42d-b0ff-4d47-a7be-f93983144d79)
 
-Amazing animations and stunning visuals 🎨
+## Key Features
 
-User-friendly interface 🖥️
+* **Dynamic Calculation:** Automatically updates the total price as items are added or deleted.
+* **Filtering System:** Filter expenses by status (All, Paid, Not Paid) using pure JS logic.
+* **DOM Manipulation:** Create, update, and remove HTML elements dynamically.
+* **User Persistence:** Saves the username to **LocalStorage**.
+* **Interactive UI:** Check/Uncheck items to mark them as paid.
 
-Easy integration and customization 🛠️
+## Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Core** | JavaScript (ES6+) |
+| **Markup** | HTML5 |
+| **Styling** | CSS3 |
+| **Storage** | LocalStorage API (User Data) |
+
 
 Contributing 🤝
 
-If you would like to contribute, feel free to send a pull request. We welcome suggestions and feedback about the project!
+Contributions, issues, and feature requests are welcome!
 
-
-![expensecalculator](https://github.com/user-attachments/assets/611ca42d-b0ff-4d47-a7be-f93983144d79)
